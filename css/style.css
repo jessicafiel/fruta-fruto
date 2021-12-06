@@ -1,0 +1,61 @@
+.imagem-carrossel {
+    object-fit: cover; 
+    object-position: 0 80%;
+    height: 400px;
+}
+
+
+.navbar-brand{
+    color: darkred!important;
+}
+
+.navbar-light .navbar-text {
+    color: rgba(0,0,0,.5);
+    margin-right: 2em;
+}
+
+.title-principal{
+    color: darkred!important;
+    text-align:center;
+}
+
+.title-principal h3 {
+    margin:1em;
+}
+
+.title-principal p {
+    color: #6c757d!important;
+    text-align:center;
+}
+
+.card-posicao-img {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
+
+.quem-somos-imagem{
+    object-fit: cover;
+    height: 250px;
+    width: 250px;
+    border: 1px solid darkred ;
+    padding: 2px;
+    object-position: 0% 50%;
+    border-radius: 100%;
+}
+.subtitle{
+    color:#58595a;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+}
+.titulo-nome{
+    padding-top: 8px;
+}
+
+
+
+
